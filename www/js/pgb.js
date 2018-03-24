@@ -20,7 +20,7 @@ function deviceInfo() {
 	navigator.notification.alert(info);
 	
 }
-function deviceInfo() {
+function Introduce() {
 
 	info =  'Tadeusz Slawik' + '\n' +
 			'=====' + '\n' +
